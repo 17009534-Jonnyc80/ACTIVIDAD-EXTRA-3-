@@ -1,0 +1,22 @@
+UNIDAD 3
+
+Introducción En esta unidad aprendí la importancia de usar
+herramientas para organizar y controlar cambios en los proyectos. Me
+pareció importante porque ayuda a trabajar de forma ordenada y segura.
+
+Controlador de versiones Aprendí que un controlador de versiones
+permite guardar cambios en los archivos y regresar a versiones
+anteriores si es necesario. Es importante porque evita perder
+información.
+
+Git Git es un sistema de control de versiones que permite
+llevar el registro de los cambios en un proyecto. Me pareció importante
+porque facilita el trabajo individual y en equipo.
+
+GitHub es una plataforma en línea donde se pueden
+guardar y compartir proyectos que usan Git. Es importante porque permite
+colaborar con otras personas.
+
+Instrucciones básicas de Git Aprendí comandos básicos como
+crear repositorios, guardar cambios y enviarlos a GitHub. Estos comandos
+son importantes para manejar correctamente un proyecto.
